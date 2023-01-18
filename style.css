@@ -41,7 +41,7 @@
 
 /* services section css */
 .servicesText.card {
-    height: 280px;
+    height: 100px;
     cursor: pointer;
   }
 .servicesIcon {
@@ -64,7 +64,7 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-linkedin:hover, .fa-github:hover {
     color: #008000;
 }
 .fab {
@@ -74,4 +74,11 @@
 #footer {
     background-color: #808080;
     text-align: center;
+}
+
+.icono {
+    text-align: center;
+}
+.logos {
+    width: 10%;
 }
