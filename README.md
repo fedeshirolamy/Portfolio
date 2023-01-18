@@ -1,7 +1,6 @@
 # Portfolio Website
 
 ![Image text](https://github.com/fedeshirolamy/Portfolio/blob/main/png/home.png)
-![Image text](https://github.com/fedeshirolamy/Portfolio/blob/main/png/projects.png)
 
 # Tools used
 
