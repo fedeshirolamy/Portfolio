@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('./png/software-developer-g2c317098f_1920.jpg');
     background-size:cover;
     position:relative;
 }
@@ -36,7 +36,7 @@
 }
 /* about section image css */
 .imageAboutPage {
-    width: 100%;
+    width: 60%;
 }
 
 /* services section css */
